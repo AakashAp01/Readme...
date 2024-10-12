@@ -58,6 +58,6 @@
 
 ## 🏆 Projects
 
-### 🔥 [Project 1: Laravel CRM](https://github.com/[YourUsername]/project-1)
+### 🔥 [Project 1: Laravel CRM](https://client-app.fly.dev/favourite-creator)
 - A comprehensive **Laravel-based CRM** with features like client management, task tracking, and invoicing.
 - **Technologies:** Laravel,MySQL,CodeIgniter
