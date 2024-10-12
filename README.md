@@ -7,10 +7,10 @@
 <h3 align="center">🚀 Fullstack Developer | Laravel | CodeIgniter | PHP</h3>
 
 <p align="center">
-  <a href="https://github.com/[YourUsername]">
-    <img src="https://img.shields.io/github/followers/[YourUsername]?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers">
+  <a href="https://github.com/AakashAp01">
+    <img src="https://img.shields.io/github/followers/AakashAp01?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers">
   </a>
-  <a href="mailto:[youremail@example.com]">
+  <a href="mailto:aakashap309@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail" alt="Email Me">
   </a>
 </p>
