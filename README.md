@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Fullstack Developer with expertise in **PHP, Laravel, CodeIgniter**.
+- 👨‍💻 Web Developer Developer with expertise in **PHP, Laravel, CodeIgniter**.
 - 🎯 Focused on **scalable web applications** with clean and efficient code.
 - 🌱 Always learning and improving, currently diving deeper into **API development**.
 - 💬 Ask me about **Laravel**, **CodeIgniter**, or **PHP**!
