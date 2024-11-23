@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/70989604/158782838-1bd4fd27-8410-49c8-b4e1-8a1ba582e2c3.gif" width="100%" alt="Laravel Development">
 </p>
 
-<h1 align="center">Hey there, I'm Akash Prajapati👋</h1>
+<h1 align="center">Hey there, I'm Aakash Prajapati👋</h1>
 <h3 align="center">🚀 Fullstack Developer | Laravel | CodeIgniter | PHP</h3>
 
 <p align="center">
@@ -57,8 +57,4 @@
 
 ---
 
-## 🏆 Projects
 
-### 🔥 [Project 1: Laravel CRM](https://client-app.fly.dev)
-- A comprehensive **Laravel-based CRM** with features like client management, task tracking, and invoicing.
-- **Technologies:** Laravel,MySQL
