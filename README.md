@@ -4,9 +4,10 @@
 # Hi there, I'm Aakash Prajapati 👋
 **🚀 Fullstack Developer | Laravel | React.js | CodeIgniter | PHP**
 
-[![GitHub Followers](https://img.shields.io/github/followers/AakashAp01?label=Followers&logo=github&style=for-the-badge)](https://github.com/AakashAp01)
-[![Email Me](https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail)](mailto:aakashap309@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashap?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/AakashAp01)  
+[![Email Me](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:aakashap309@gmail.com)  
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aakashap?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
 
 
 ---
