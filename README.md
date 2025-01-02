@@ -6,7 +6,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/AakashAp01?label=Followers&logo=github&style=for-the-badge)](https://github.com/AakashAp01)
 [![Email Me](https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail)](mailto:aakashap309@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aakashprajapati/)
+[![LinkedIn](https://www.linkedin.com/in/aakashap?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
